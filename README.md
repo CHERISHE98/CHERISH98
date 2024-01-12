@@ -13,3 +13,6 @@
 🌞 SSAFY 수업
 
 🌛 개인 공부
+
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/BLOG-FFDE91?style=for-the-badge&logo=datadog&logoColor=black"></a>
+
